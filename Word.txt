@@ -1,0 +1,28 @@
+Model View Controll – MVC
+
+
+
+History
+
+MVC is one of the first approach described and implemented for software constructs in terms of their responsibility.
+
+Trygve Reenskaug introduced MVC into Smalltalk-76 in 1970.
+Jim Althoff and others implemented MCV for Smalltalk-80 in 1080.
+
+In 1988 JOT(The Journel of Object Technology) expressed MVC as general concept.
+ 
+There are different patterns which evolved after that:
+
+Hierarchical Model-View-Controller (HMVC)
+Model View Adapter (MVA)
+Model View Presenter (MVP)
+Modl View Viewmodel (MVVP)  
+
+MVC pattern became popular for JAVA Developers when WebObjects was ported to JAVA.
+Then frameworks like Spring continued strong bond with JAVA and MVC.
+
+
+Introduction
+
+Model View controller(MVC) it is a software design pattern for developing web applications.
+
